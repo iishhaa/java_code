@@ -1,0 +1,224 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "A",
+            "request": "launch",
+            "mainClass": "A",
+            "projectName": "java_cc_ad779f6c"
+        },
+        {
+            "type": "java",
+            "name": "Add",
+            "request": "launch",
+            "mainClass": "Add",
+            "projectName": "java_cc_ad779f6c"
+        },
+        {
+            "type": "java",
+            "name": "B",
+            "request": "launch",
+            "mainClass": "B",
+            "projectName": "java_cc_ad779f6c"
+        },
+        {
+            "type": "java",
+            "name": "Bank",
+            "request": "launch",
+            "mainClass": "Bank",
+            "projectName": "java_cc_ad779f6c"
+        },
+        {
+            "type": "java",
+            "name": "Bit",
+            "request": "launch",
+            "mainClass": "Bit",
+            "projectName": "java_cc_ad779f6c"
+        },
+        {
+            "type": "java",
+            "name": "C",
+            "request": "launch",
+            "mainClass": "C",
+            "projectName": "java_cc_ad779f6c"
+        },
+        {
+            "type": "java",
+            "name": "Circle",
+            "request": "launch",
+            "mainClass": "Circle",
+            "projectName": "java_cc_ad779f6c"
+        },
+        {
+            "type": "java",
+            "name": "Cube",
+            "request": "launch",
+            "mainClass": "Cube",
+            "projectName": "java_cc_ad779f6c"
+        },
+        {
+            "type": "java",
+            "name": "D",
+            "request": "launch",
+            "mainClass": "D",
+            "projectName": "java_cc_ad779f6c"
+        },
+        {
+            "type": "java",
+            "name": "DemoProgram",
+            "request": "launch",
+            "mainClass": "DemoProgram",
+            "projectName": "java_cc_ad779f6c"
+        },
+        {
+            "type": "java",
+            "name": "E",
+            "request": "launch",
+            "mainClass": "E",
+            "projectName": "java_cc_ad779f6c"
+        },
+        {
+            "type": "java",
+            "name": "Empl",
+            "request": "launch",
+            "mainClass": "Empl",
+            "projectName": "java_cc_ad779f6c"
+        },
+        {
+            "type": "java",
+            "name": "F",
+            "request": "launch",
+            "mainClass": "F",
+            "projectName": "java_cc_ad779f6c"
+        },
+        {
+            "type": "java",
+            "name": "G",
+            "request": "launch",
+            "mainClass": "G",
+            "projectName": "java_cc_ad779f6c"
+        },
+        {
+            "type": "java",
+            "name": "H",
+            "request": "launch",
+            "mainClass": "H",
+            "projectName": "java_cc_ad779f6c"
+        },
+        {
+            "type": "java",
+            "name": "Loop1",
+            "request": "launch",
+            "mainClass": "Loop1",
+            "projectName": "java_cc_ad779f6c"
+        },
+        {
+            "type": "java",
+            "name": "Nott",
+            "request": "launch",
+            "mainClass": "Nott",
+            "projectName": "java_cc_ad779f6c"
+        },
+        {
+            "type": "java",
+            "name": "Q3",
+            "request": "launch",
+            "mainClass": "Q3",
+            "projectName": "java_cc_ad779f6c"
+        },
+        {
+            "type": "java",
+            "name": "Q4",
+            "request": "launch",
+            "mainClass": "Q4",
+            "projectName": "java_cc_ad779f6c"
+        },
+        {
+            "type": "java",
+            "name": "Q5",
+            "request": "launch",
+            "mainClass": "Q5",
+            "projectName": "java_cc_ad779f6c"
+        },
+        {
+            "type": "java",
+            "name": "Rect",
+            "request": "launch",
+            "mainClass": "Rect",
+            "projectName": "java_cc_ad779f6c"
+        },
+        {
+            "type": "java",
+            "name": "Rectangle",
+            "request": "launch",
+            "mainClass": "Rectangle",
+            "projectName": "java_cc_ad779f6c"
+        },
+        {
+            "type": "java",
+            "name": "Square",
+            "request": "launch",
+            "mainClass": "Square",
+            "projectName": "java_cc_ad779f6c"
+        },
+        {
+            "type": "java",
+            "name": "Ab",
+            "request": "launch",
+            "mainClass": "day8.Ab",
+            "projectName": "java_cc_ad779f6c"
+        },
+        {
+            "type": "java",
+            "name": "Bb",
+            "request": "launch",
+            "mainClass": "day8.Bb",
+            "projectName": "java_cc_ad779f6c"
+        },
+        {
+            "type": "java",
+            "name": "Abc",
+            "request": "launch",
+            "mainClass": "day9.Abc",
+            "projectName": "java_cc_ad779f6c"
+        },
+        {
+            "type": "java",
+            "name": "Bbc",
+            "request": "launch",
+            "mainClass": "day9.Bbc",
+            "projectName": "java_cc_ad779f6c"
+        },
+        {
+            "type": "java",
+            "name": "Cbc",
+            "request": "launch",
+            "mainClass": "day9.Cbc",
+            "projectName": "java_cc_ad779f6c"
+        },
+        {
+            "type": "java",
+            "name": "loop",
+            "request": "launch",
+            "mainClass": "loop",
+            "projectName": "java_cc_ad779f6c"
+        },
+        {
+            "type": "java",
+            "name": "q1",
+            "request": "launch",
+            "mainClass": "q1",
+            "projectName": "java_cc_ad779f6c"
+        }
+    ]
+}

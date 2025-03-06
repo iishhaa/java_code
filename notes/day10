@@ -1,0 +1,11 @@
+syntax:
+   switch(constant/variable/expression/function call){
+
+    case constant/expression;
+    //statement
+    break; //it is optional
+   
+   default;
+   //statement ---> when any 
+   }
+constant always write in singlee qote'a'

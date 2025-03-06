@@ -1,0 +1,21 @@
+we want to take input from java so we use
+nextint()
+nextfloat()
+nextdouble()
+next()//string for single word
+nextline for//string for single word
+next().charAt(0);//for character
+
+//step 1:import scanner class
+class Program{
+    public static void main(string args[]){
+        //step2:
+        create object of scanner
+        scanner kb=new scanner 
+    }
+}
+
+
+
+Q1// how to take input from the user in java progrming ?
+ans:if we want
